@@ -1,0 +1,47 @@
+﻿Transaktionstyp,Buchungsdatum,Betrag,Zahlungsempfänger,IBAN,BIC,Verwendungszweck,Beschreibung,Kategorie,Unterkategorie
+Zinszahlung,30.06.2024,"2,00",C24 Bank,,,,,Einkommen,Kapitalerträge
+Pocket-Umbuchung,29.06.2024,"0,83",Sparkonto,,,Uebertrag Guthaben von Pocket,Deniz Erol,Umbuchung,Umbuchung
+SEPA-Lastschrift,28.06.2024,"-478,77",Hanseatic Bank,DE47201207002012423499,HSTBDEHHXXX,Kartenabrechnung   06/2024         Hanseatic Bank,"Erol,Deniz",Kredit,Kreditrate & -zinsen
+SEPA-Lastschrift,26.06.2024,"-1000,00",IHR MOEBELHAUS SAGT DANKE,DE36100500000191280399,BELADEBEXXX,240607450000830270753319860 ELV65331986 24.06 07.45 ME0,,Wohnen & Haushalt,Einrichtung & Haushaltswaren
+Pocket-Umbuchung,25.06.2024,"1000,00",Gemeinschaftskonto,,,Bett,Deniz Erol,Umbuchung,Umbuchung
+SEPA-Überweisung,25.06.2024,"50,00",JESSICA WAGENKNECHT,DE46250500000150707875,NOLADE2HXXX,,,Weitere Einnahmen,Weitere Einnahmen
+Pocket-Umbuchung,25.06.2024,"41,23",Gemeinschaftskonto,,,,Deniz Erol,Umbuchung,Umbuchung
+Pocket-Umbuchung,25.06.2024,"39,81",Gemeinschaftskonto,,,,Deniz Erol,Umbuchung,Umbuchung
+Kartenzahlung,25.06.2024,"-39,81",Edeka,,,,"E-CENTER CRAMER 3106 - Lehrte, DEU",Lebensmittel,Supermarkt
+SEPA-Überweisung,24.06.2024,"445,63",Telekom,DE50370800400209058200,DRESDEFF370,/ADV/0022019456 24.6.2024,DEUTSCHE TELEKOM AG,Weitere Einnahmen,Weitere Einnahmen
+Kartenzahlung,23.06.2024,"-11,05",Edeka,,,,"E-CENTER CRAMER 3106 - Lehrte, DEU",Lebensmittel,Supermarkt
+Kartenzahlung,23.06.2024,"-30,18",Penny,,,,"Penny Stackmannstrasse - Lehrte, DEU",Lebensmittel,Supermarkt
+Online-Kartenzahlung,23.06.2024,"-67,76","CYBERGHOST VPN - LONDON, GBR",,,,,Weitere Ausgaben,Weitere Ausgaben
+Online-Kartenzahlung,22.06.2024,"-152,10","SP ONEMATE GMBH - PFORZHEIM, DEU",,,,,Weitere Ausgaben,Weitere Ausgaben
+Pocket-Umbuchung,18.06.2024,"-100,00",Zwischenkonto,,,Geld von Baba und Hande,Gemeinsames Zwischenkonto,Umbuchung,Umbuchung
+SEPA-Überweisung,17.06.2024,"1,00",Deniz Erol,DE67500240240167526998,DEFFDEFFXXX,Auszahlung CHECK24 Anlagekonto,,Umbuchung,Umbuchung
+Pocket-Umbuchung,15.06.2024,"145,17",Sparkonto,,,,Deniz Erol,Umbuchung,Umbuchung
+Pocket-Umbuchung,14.06.2024,"-125,00",Sparkonto,,,,Zwischenkonto,Umbuchung,Umbuchung
+Sparen,14.06.2024,"-125,00",Konsumkonto,,,Einkommensverteiler,,Geldanlage,Sonstiges Sparen
+Sparen,14.06.2024,"-750,00",Gemeinschaftskonto,,,Einkommensverteiler,,Geldanlage,Sonstiges Sparen
+SEPA-Überweisung,14.06.2024,"1006,70",Telekom,DE19700202700010316234,HYVEDEMM,Lohn/Gehalt 00607771/202406,Deutsche Telekom AG,Einkommen,Lohn/ Gehalt
+SEPA-Überweisung,12.06.2024,"14,78",Erol Deniz,DE47201207002012423499,HSTBDEHHXXX,Ihr Ueberweisungsauftrag vom 12.06.2024,,Weitere Einnahmen,Weitere Einnahmen
+SEPA-Überweisung,12.06.2024,"13,78",Erol Deniz,DE47201207002012423499,HSTBDEHHXXX,Ihr Ueberweisungsauftrag vom 12.06.2024,,Weitere Einnahmen,Weitere Einnahmen
+SEPA-Überweisung,12.06.2024,"43,82",Erol Deniz,DE47201207002012423499,HSTBDEHHXXX,Ihr Ueberweisungsauftrag vom 12.06.2024,,Weitere Einnahmen,Weitere Einnahmen
+Pocket-Umbuchung,10.06.2024,"-200,00",Sparkonto,,,,Zwischenkonto,Umbuchung,Umbuchung
+SEPA-Überweisung,10.06.2024,"200,00",PayPal Europe S.a.r.l. et Cie S.C.A,LU89751000135104200E,PPLXLUL2,PP.2527.PP/ABBUCHUNG VOM PAYPAL-KONTO,,Weitere Einnahmen,Weitere Einnahmen
+SEPA-Überweisung,10.06.2024,"20,12",PayPal Europe S.a.r.l. et Cie S.C.A,LU89751000135104200E,PPLXLUL2,PP.2527.PP/ABBUCHUNG VOM PAYPAL-KONTO,,Weitere Einnahmen,Weitere Einnahmen
+Echtzeit-Überweisung,09.06.2024,"-200,00",Deniz Erol,DE47201207002012423499,HSTBDEHHXXX,,,Weitere Ausgaben,Weitere Ausgaben
+Pocket-Umbuchung,09.06.2024,"200,00",Sparkonto,,,,Deniz Erol,Umbuchung,Umbuchung
+Pocket-Umbuchung,05.06.2024,"-10,15",Sparkonto,,,,Zwischenkonto,Umbuchung,Umbuchung
+SEPA-Überweisung,05.06.2024,"10,15",Check24,DE43700400410275881101,COBADEFF700,CHECK24 Punkte Auszahlung,CHECK24,Weitere Einnahmen,Weitere Einnahmen
+Echtzeit-Überweisung,04.06.2024,"-41,44",Deniz Erol,DE47201207002012423499,HSTBDEHHXXX,,,Weitere Ausgaben,Weitere Ausgaben
+Pocket-Umbuchung,04.06.2024,"19,42",Konsumkonto,,,,Deniz Erol,Umbuchung,Umbuchung
+SEPA-Überweisung,04.06.2024,"29,00",Taskin Erol,DE55250500000150168490,NOLADE2HXXX,,,Weitere Einnahmen,Weitere Einnahmen
+SEPA-Lastschrift,04.06.2024,"-49,00",Deutsche Bahn,DE02100100100152517108,PBNKDEFFXXX,Abo 379940163 zum 01.06.2024,DB Vertrieb GmbH,Mobilität,Bahntickets
+Pocket-Umbuchung,03.06.2024,"125,00",Konsumkonto,,,,Deniz Erol,Umbuchung,Umbuchung
+Pocket-Umbuchung,03.06.2024,"-10,00",Sparkonto,,,,Zwischenkonto,Umbuchung,Umbuchung
+Pocket-Umbuchung,03.06.2024,"-25,00",Sparkonto,,,,Zwischenkonto,Umbuchung,Umbuchung
+SEPA-Überweisung,03.06.2024,"35,00",PayPal Europe S.a.r.l. et Cie S.C.A,LU89751000135104200E,PPLXLUL2,PP.2527.PP/ABBUCHUNG VOM PAYPAL-KONTO,,Weitere Einnahmen,Weitere Einnahmen
+Echtzeit-Überweisung,03.06.2024,"0,34",Traderepublic,DE17100701000322055500,DEUTDEBB101,Deine Auszahlung vom Trade Republic Verrechnungskonto. Bitte ueberweise kein Geld auf diese IBAN. ZahlungsId 20240603-9446c54d-3394,Trade Republic Bank GmbH,Einkommen,Kapitalerträge
+Pocket-Umbuchung,03.06.2024,"-0,34",Sparkonto,,,,Zwischenkonto,Umbuchung,Umbuchung
+Pocket-Umbuchung,03.06.2024,"-125,00",Sparkonto,,,,Zwischenkonto,Umbuchung,Umbuchung
+Pocket-Umbuchung,03.06.2024,"-29,00",Sparkonto,,,,Zwischenkonto,Umbuchung,Umbuchung
+Pocket-Umbuchung,03.06.2024,"-43,05",Sparkonto,,,,Zwischenkonto,Umbuchung,Umbuchung
+Echtzeit-Überweisung,03.06.2024,"-44,97",Deniz Erol,DE47201207002012423499,HSTBDEHHXXX,,,Weitere Ausgaben,Weitere Ausgaben
+Pocket-Umbuchung,03.06.2024,"-25,00",Konsumkonto,,,,,Umbuchung,Umbuchung
