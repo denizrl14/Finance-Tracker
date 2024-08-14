@@ -54,26 +54,31 @@ pharmacies = [
     "pharmasana"
 ]
 
-def categorize_expenses(expense, category):
-    if expense in grocery_stores:
-        return category
-    elif expense in drugstores:
-        return category
-    elif expense in pharmacies:
-        return category
-    else:
-        return "Other"
+daily_costs = grocery_stores + drugstores + pharmacies
+
+
+def categorize_expenses(expense, keywords, category):
+    if isinstance(expense, str):
+        for keyword in keywords:
+            if keyword in expense:
+                return category
+    return ""
+        
 
 
 
-def x():
+
+
+def recognize_daily_costs():
     my_list = []
     for i in range(0, len(df)):
         for column in df.columns:
-            my_list.append(categorize_expenses(df.iloc[i][column], "Lebenshaltung"))
-    print(my_list)
+            my_list.append(categorize_expenses(df.iloc[i][column], daily_costs, "Daily Costs"))
+    return my_list
 
-x()
+print(recognize_daily_costs())
+
+
 
  
 
